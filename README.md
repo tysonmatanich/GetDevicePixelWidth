@@ -2,7 +2,7 @@
 
 Allows you to get the physical pixel width of a device using JavaScript.
 
-* Author: Tyson Matanich
+* Author: Tyson Matanich - http://matanich.com
 * License: MIT
 
 **Note:** GetDevicePixelWidth includes [GetDevicePixelRatio]:(http://github.com/tysonmatanich/GetDevicePixelRatio)
